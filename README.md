@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer </h3>
 
 <p align="center">
-  📍 Cairo, Egypt &nbsp;|&nbsp; 🎓 Computer Science &nbsp;|&nbsp; 🚀 DEPI Data Engineering Track
+   Data Engineering 
 </p>
 
 ---
