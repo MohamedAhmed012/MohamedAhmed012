@@ -10,9 +10,16 @@
 - 🌱 **Currently learning:** ** Big Data with Spark & Hadoop, Linux **
 - 👯 **Looking to collaborate on:** ** Data Engineering projects**
 - 💬 **Ask me about:** **Python, SQL, ETL, DWH, and Power BI**
-- 📫 **How to reach me:** [LinkedIn Profile](https://www.linkedin.com/in/mohamed-ahmed-694593377)
+- 📫 **How to reach me:** [omohamedoahmed@gmail.com](mailto:omohamedoahmed@gmail.com)
 
 ---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-ahmed-694593377" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Ahmed LinkedIn" height="40" width="40" />
+</a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,7 +48,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Spark SQL & DataFrames" width="40" height="40"/>
 </a>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
+</a>
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/SQL_Statements-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Statements"/>
