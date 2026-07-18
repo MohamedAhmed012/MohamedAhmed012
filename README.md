@@ -2,7 +2,6 @@
 <h3 align="center">Data Engineer </h3>
 
 <p align="center">
-   Data Engineering 
 </p>
 
 ---
