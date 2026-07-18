@@ -41,8 +41,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Spark SQL & DataFrames" width="40" height="40"/>
 </a>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachehadoop/apachehadoop-original.svg" alt="Hadoop" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/></a>
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/SQL_Statements-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Statements"/>
